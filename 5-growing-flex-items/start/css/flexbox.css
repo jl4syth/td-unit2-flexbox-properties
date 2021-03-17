@@ -6,3 +6,11 @@
 	display: flex;
 	flex-wrap: wrap;
 }
+
+.item {
+	flex-grow: 1;
+}
+
+.item-1 {
+	flex-grow: 4;
+}
